@@ -1,2 +1,2 @@
 # catchthefish
-CatchTheFISH is a method with increased sensitivity in detecting IGH translocations from whole-genome sequencing data.
+CatchTheFISH is a method with increased sensitivity for detection of IGH translocations from whole-genome sequencing data.
