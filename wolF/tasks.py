@@ -387,7 +387,7 @@ HEREDOC
     """
     outputs = {
         "clusters_tx" : "*_raw.txt",
-        "clusters_tx_filter" : "*_filtered.txt",
+        "clusters_tx_filtered" : "*_filtered.txt",
         "circos_tx" : "*.pdf"
     }
     docker = "jbalberge/r-dbscan:latest"
